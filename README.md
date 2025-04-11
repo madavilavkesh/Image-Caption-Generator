@@ -54,7 +54,7 @@ We use [Salesforce's BLIP image captioning model](https://huggingface.co/Salesfo
 
 ## 🧑‍💻 Run Locally or on Colab
 
-### 📥 Option 1: Download `.ipynb` and Run on Colab
+### 📥 Option 1: Download `.ipynb` and Run on Colab (with GPU support)
 
 
 ### 🖥️ Option 2: Clone and Run Locally
