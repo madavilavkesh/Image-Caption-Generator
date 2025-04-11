@@ -1,6 +1,4 @@
-# Image-Caption-Generator
-
-# 🖼️ Image Caption Generator
+# Image Caption Generator
 
 This web app generates human-like captions for images using the **BLIP** model by Salesforce. Upload an image and get an AI-generated caption instantly.
 
