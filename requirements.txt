@@ -1,0 +1,8 @@
+numpy
+pandas
+pillow
+gradio
+tensorflow
+torch
+torchvision
+transformers
