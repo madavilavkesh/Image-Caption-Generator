@@ -21,7 +21,7 @@ This web app generates human-like captions for images using the **BLIP** model b
 ### 🖼️ Test Image 1
 
 **Input:**
-![IMG_1](IMG_1.png)
+![IMG_1](IMG_1.jpg)
 
 **Caption Output:**
 ![Screenshot IMG 1](Screenshot_IMG_1.png)
@@ -31,7 +31,7 @@ This web app generates human-like captions for images using the **BLIP** model b
 ### 🖼️ Test Image 2
 
 **Input:**
-![IMG_2](IMG_2.png)
+![IMG_2](IMG_2.jpg)
 
 **Caption Output:**
 ![Screenshot IMG 2](Screenshot_IMG_2.png)
