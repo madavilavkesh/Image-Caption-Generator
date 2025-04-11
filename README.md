@@ -10,6 +10,12 @@ This web app generates human-like captions for images using the **BLIP** model b
 
 ---
 
+## 🧠 About the Model
+
+We use [Salesforce's BLIP image captioning model](https://huggingface.co/Salesforce/blip-image-captioning-large), which leverages a **vision-language pretraining approach**. BLIP combines a vision encoder (ViT) and a language decoder (GPT-like) to understand image content and generate natural language descriptions. It's trained on large-scale image-text pairs and is among the best performing models for image captioning tasks.
+
+---
+
 ## 🖼️ Screenshots
 
 ### 🧑‍💻 Interface Preview
@@ -46,10 +52,15 @@ This web app generates human-like captions for images using the **BLIP** model b
 
 ---
 
-## 🛠️ Run Locally
+## 🧑‍💻 Run Locally or on Colab
+
+### 📥 Option 1: Download `.ipynb` and Run on Colab
+
+
+### 🖥️ Option 2: Clone and Run Locally
 
 ```bash
-git clone https://huggingface.co/spaces/your-username/your-space-name
-cd your-space-name
+git clone https://github.com/your-username/image-caption-generator.git
+cd image-caption-generator
 pip install -r requirements.txt
 python app.py
